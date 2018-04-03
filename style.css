@@ -30,7 +30,7 @@
        width: 80px;
        height: 80px;
        border-radius: 200px;
-       background-color:grey;
+       content: url(https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/250px-050Diglett.png)
     }
     
     .dirt {
@@ -64,9 +64,9 @@
     display:flex;
     justify-content: center;
     align-items:center;
-    background-color: red;
+    background-color: yellow;
     border-style: solid;
-    border-color:blue;
+    border-color:orange;
     border-width: 15px;
     border-radius:0%;
     width:430px;
