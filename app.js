@@ -39,7 +39,7 @@ window.onload = function() {
 function checkloss(){
 if(score.innerHTML <= "0"){
     score.innerHTML="0";
-    alert("You lose. Your score was " + numwhacks + " points. Refresh to try again?")
+    alert("Great Try! Your score was " + numwhacks + " points. Refresh to play again?")
 
 }else{
     console.log("still alive");
